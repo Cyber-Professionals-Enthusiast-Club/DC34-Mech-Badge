@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="mech_idle/mech_idle.vcxproj" Id="d812c397-3953-497f-831c-7f2317a401c6" />
+</Solution>
